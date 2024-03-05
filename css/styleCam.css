@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../recursos/img/Fondo_B.png");
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+canvas {
+    border: black 10px solid;
+    border-radius: 20px;
+}
