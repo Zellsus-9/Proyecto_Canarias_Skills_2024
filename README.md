@@ -1,6 +1,6 @@
-<h3>**Saltos por Fuerteventura Skills 2024**</h3><br />
+<h3><b>Saltos por Fuerteventura Skills 2024</b></h3><br />
 Proyecto desarrollado para las Canarias skills 2024,<br />
-consta de un juego desarrollado en JavaScript, Html y Css, usando las librerias **p5.js** y **ml5.js**.
+consta de un juego desarrollado en JavaScript, Html y Css, usando las librerias <b>p5.js</b> y <b>ml5.js</b>.
 
 **Creador**: <a href="https://www.instagram.com/zellsus?igsh=MTBqcHQyYXRtbHdxcg==">@Zellsus</a> en insta<br />
 **Arte**: <br />
