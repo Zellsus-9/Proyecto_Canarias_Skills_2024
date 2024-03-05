@@ -2,7 +2,7 @@
 Proyecto desarrollado para las Canarias skills 2024,
 consta de un juego desarrollado en JavaScript, Html y Css, usando las librerias **p5.js** y **ml5.js**.
 
-**Ayuda en los recursos del Juego**
+**Ayuda en los recursos del Juego**\n
 **Creador**: @Zellsus en insta
 **Arte**: 
   - Fondos y obstaculos: @Alepsie en insta
